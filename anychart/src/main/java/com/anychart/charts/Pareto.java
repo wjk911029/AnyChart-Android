@@ -19,7 +19,7 @@ import android.text.TextUtils;
 public class Pareto extends SeparateChart {
 
     protected Pareto() {
-
+胜多负少法发顺丰 沙发上
     }
 
     public static Pareto instantiate() {
